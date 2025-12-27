@@ -1,0 +1,6 @@
+{
+    "app_name": "The Integrator",
+    "version": "4.0.0",
+    "openai_api_key": "sk-proj-YOUR-OPENAI-KEY-HERE",
+    "log_level": "INFO"
+}
